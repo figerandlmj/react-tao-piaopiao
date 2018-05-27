@@ -1,3 +1,5 @@
 .App {
-  background: #000;
-  color: #f00; }
+  background-color: #fff; }
+  .App .App-logo {
+    width: 100px;
+    height: 100px; }
